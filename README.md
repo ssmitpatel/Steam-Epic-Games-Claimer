@@ -1,7 +1,7 @@
 # <img src="public/icon/32.png" width="32" style="vertical-align: middle;" /> Steam & Epic Games Claimer
 
 ![Version](https://img.shields.io/badge/version-1.1.0-blue.svg?style=flat-square)
-![License](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)
+![License](https://img.shields.io/badge/license-GPLv3-green.svg?style=flat-square)
 ![React](https://img.shields.io/badge/react-19-61dafb.svg?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-5.8-3178c6.svg?style=flat-square&logo=typescript&logoColor=white)
 
