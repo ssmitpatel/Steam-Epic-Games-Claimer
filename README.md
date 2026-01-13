@@ -1,4 +1,4 @@
-# <img src="public/icon/32.png" width="32" style="vertical-align: middle;" /> Steam & Epic Games Claimer
+# <img src="public/icon/128.png" width="32" style="vertical-align: middle;" /> Steam & Epic Games Claimer
 
 ![Version](https://img.shields.io/badge/version-1.1.0-blue.svg?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)
